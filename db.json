@@ -1,0 +1,457 @@
+{
+	"totalResults": "4",
+	"offers": [
+		{
+			"id": "1",
+			"rank": "1",
+			"provider": {
+				"id": "61053",
+				"logoUrl": "https://www.verivox.de/i/vox-carrierlogo.ashx?id=61053",
+				"caption": {
+					"text": "Anbieter"
+				},
+				"content": {
+					"text": "Vodafone Kabel Deutschland GmbH"
+				}
+			},
+			"product": {
+				"id": "483414",
+				"hasPhoneFlatrate": "true",
+				"isTHomeAccess": "false",
+				"isForStudents": "false",
+				"positionZeroStatus": "0",
+				"isSpecialOffer": "false",
+				"isForBusinessCustomers": "false",
+				"caption": {
+					"text": "Produkt"
+				},
+				"content": {
+					"text": "Red Internet & Phone 32 Cable (Wechsler)"
+				},
+				"accessModes": {
+					"accessMode": {
+						"type": "cable"
+					}
+				},
+				"numberOfPhoneLines": "1",
+				"numberOfPhoneNumbers": "1"
+			},
+			"contractTerm": {
+				"downloadSpeed": {
+					"amount": "32000",
+					"unit": "kbit/s",
+					"caption": {
+						"text": "Geschwindigkeit"
+					},
+					"content": {
+						"text": "32.000 kbit/s"
+					}
+				},
+				"uploadSpeed": {
+					"amount": "2000",
+					"unit": "kbit/s",
+					"caption": {
+						"text": "Geschwindigkeit"
+					},
+					"content": {
+						"text": "2.000 kbit/s"
+					}
+				},
+				"contractDuration": {
+					"amount": "24",
+					"unit": "month",
+					"caption": {
+						"text": "Laufzeit"
+					},
+					"content": {
+						"text": "24 Monate"
+					}
+				}
+			},
+			"cost": {
+				"effectiveCost": {
+					"amount": "10.41",
+					"unit": "EUR",
+					"caption": {
+						"text": "Effektivpreis"
+					},
+					"content": {
+						"text": "10,41 €"
+					}
+				}
+			},
+			"additionalOptions": {
+				"options": [
+					{
+						"costsIncluded": "false",
+						"type": "SecurityOption",
+						"subType": "InternetSecurityPack",
+						"optionId": "np16685",
+						"isMandatory": "false",
+						"caption": {
+							"text": "Name"
+						},
+						"content": {
+							"text": "Sicherheitspaket (2er Lizenz)"
+						}
+					},
+					{
+						"costsIncluded": "false",
+						"type": "TelephonyOption",
+						"subType": "Undefined",
+						"optionId": "po131392",
+						"isMandatory": "false",
+						"caption": {
+							"text": "Name"
+						},
+						"content": {
+							"text": "Mobile & Euro-Flat"
+						}
+					},
+					{
+						"costsIncluded": "false",
+						"type": "TelephonyOption",
+						"subType": "Undefined",
+						"optionId": "po70041",
+						"isMandatory": "false",
+						"caption": {
+							"text": "Name"
+						},
+						"content": {
+							"text": "Mobile & International-Flat"
+						}
+					}
+				]
+			},
+			"requiresAvailabilityCheck": "true"
+		},
+		{
+			"id": "2",
+			"rank": "2",
+			"provider": {
+				"id": "61053",
+				"logoUrl": "https://www.verivox.de/i/vox-carrierlogo.ashx?id=61053",
+				"caption": {
+					"text": "Anbieter"
+				},
+				"content": {
+					"text": "Vodafone Kabel Deutschland GmbH"
+				}
+			},
+			"product": {
+				"id": "483784",
+				"hasPhoneFlatrate": "true",
+				"isTHomeAccess": "false",
+				"isForStudents": "false",
+				"positionZeroStatus": "0",
+				"isSpecialOffer": "false",
+				"isForBusinessCustomers": "false",
+				"caption": {
+					"text": "Produkt"
+				},
+				"content": {
+					"text": "Red Internet & Phone 200 Cable Testen&Wechseln (Wechsler)"
+				},
+				"accessModes": {
+					"accessMode": {
+						"type": "cable"
+					}
+				},
+				"numberOfPhoneLines": "1",
+				"numberOfPhoneNumbers": "1"
+			},
+			"contractTerm": {
+				"downloadSpeed": {
+					"amount": "200000",
+					"unit": "kbit/s",
+					"caption": {
+						"text": "Geschwindigkeit"
+					},
+					"content": {
+						"text": "200.000 kbit/s"
+					}
+				},
+				"uploadSpeed": {
+					"amount": "12000",
+					"unit": "kbit/s",
+					"caption": {
+						"text": "Geschwindigkeit"
+					},
+					"content": {
+						"text": "12.000 kbit/s"
+					}
+				},
+				"contractDuration": {
+					"amount": "24",
+					"unit": "month",
+					"caption": {
+						"text": "Laufzeit"
+					},
+					"content": {
+						"text": "24 Monate"
+					}
+				}
+			},
+			"cost": {
+				"effectiveCost": {
+					"amount": "12.49",
+					"unit": "EUR",
+					"caption": {
+						"text": "Effektivpreis"
+					},
+					"content": {
+						"text": "12,49 €"
+					}
+				}
+			},
+			"additionalOptions": {
+				"options": [
+					{
+						"costsIncluded": "false",
+						"type": "SecurityOption",
+						"subType": "InternetSecurityPack",
+						"optionId": "np17256",
+						"isMandatory": "false",
+						"caption": {
+							"text": "Name"
+						},
+						"content": {
+							"text": "Sicherheitspaket (2er Lizenz)"
+						}
+					},
+					{
+						"costsIncluded": "false",
+						"type": "TelephonyOption",
+						"subType": "Undefined",
+						"optionId": "po131392",
+						"isMandatory": "false",
+						"caption": {
+							"text": "Name"
+						},
+						"content": {
+							"text": "Mobile & Euro-Flat"
+						}
+					},
+					{
+						"costsIncluded": "false",
+						"type": "TelephonyOption",
+						"subType": "Undefined",
+						"optionId": "po70041",
+						"isMandatory": "false",
+						"caption": {
+							"text": "Name"
+						},
+						"content": {
+							"text": "Mobile & International-Flat"
+						}
+					}
+				]
+			}
+		},
+		{
+			"id": "3",
+			"rank": "3",
+			"provider": {
+				"id": "59296",
+				"logoUrl": "https://www.verivox.de/i/vox-carrierlogo.ashx?id=59296",
+				"caption": {
+					"text": "Anbieter"
+				},
+				"content": {
+					"text": "1&1"
+				}
+			},
+			"product": {
+				"id": "87505",
+				"hasPhoneFlatrate": "true",
+				"isTHomeAccess": "false",
+				"isForStudents": "false",
+				"positionZeroStatus": "0",
+				"isSpecialOffer": "false",
+				"isForBusinessCustomers": "false",
+				"caption": {
+					"text": "Produkt"
+				},
+				"content": {
+					"text": "DSL Basic"
+				},
+				"accessModes": {
+					"accessMode": {
+						"type": "dsl"
+					}
+				},
+				"numberOfPhoneLines": "1",
+				"numberOfPhoneNumbers": "1"
+			},
+			"contractTerm": {
+				"downloadSpeed": {
+					"amount": "16000",
+					"unit": "kbit/s",
+					"caption": {
+						"text": "Geschwindigkeit"
+					},
+					"content": {
+						"text": "16.000 kbit/s"
+					}
+				},
+				"uploadSpeed": {
+					"amount": "1000",
+					"unit": "kbit/s",
+					"caption": {
+						"text": "Geschwindigkeit"
+					},
+					"content": {
+						"text": "1.000 kbit/s"
+					}
+				},
+				"contractDuration": {
+					"amount": "24",
+					"unit": "month",
+					"caption": {
+						"text": "Laufzeit"
+					},
+					"content": {
+						"text": "24 Monate"
+					}
+				}
+			},
+			"cost": {
+				"effectiveCost": {
+					"amount": "18.73",
+					"unit": "EUR",
+					"caption": {
+						"text": "Effektivpreis"
+					},
+					"content": {
+						"text": "18,73 €"
+					}
+				}
+			},
+			"additionalOptions": {
+				"options": [
+					{
+						"costsIncluded": "false",
+						"type": "TelephonyOption",
+						"subType": "Undefined",
+						"optionId": "po503731",
+						"isMandatory": "false",
+						"caption": {
+							"text": "Name"
+						},
+						"content": {
+							"text": "Euro-Flat"
+						}
+					},
+					{
+						"costsIncluded": "false",
+						"type": "TelephonyOption",
+						"subType": "Undefined",
+						"optionId": "po503746",
+						"isMandatory": "false",
+						"caption": {
+							"text": "Name"
+						},
+						"content": {
+							"text": "World-Flat"
+						}
+					},
+					{
+						"costsIncluded": "false",
+						"type": "TelephonyOption",
+						"subType": "Undefined",
+						"optionId": "po69078",
+						"isMandatory": "false",
+						"caption": {
+							"text": "Name"
+						},
+						"content": {
+							"text": "Mobilfunk-Flat"
+						}
+					}
+				]
+			},
+			"requiresAvailabilityCheck": "true"
+		},
+		{
+			"id": "4",
+			"rank": "4",
+			"provider": {
+				"id": "61053",
+				"logoUrl": "https://www.verivox.de/i/vox-carrierlogo.ashx?id=61053",
+				"caption": {
+					"text": "Anbieter"
+				},
+				"content": {
+					"text": "Vodafone Kabel Deutschland GmbH"
+				}
+			},
+			"product": {
+				"id": "285671",
+				"hasPhoneFlatrate": "true",
+				"isTHomeAccess": "false",
+				"isForStudents": "false",
+				"positionZeroStatus": "0",
+				"isSpecialOffer": "false",
+				"isForBusinessCustomers": "false",
+				"caption": {
+					"text": "Produkt"
+				},
+				"content": {
+					"text": "Red Internet & Phone 100 Cable"
+				},
+				"accessModes": {
+					"accessMode": {
+						"type": "cable"
+					}
+				},
+				"numberOfPhoneLines": "1",
+				"numberOfPhoneNumbers": "1"
+			},
+			"contractTerm": {
+				"downloadSpeed": {
+					"amount": "100000",
+					"unit": "kbit/s",
+					"caption": {
+						"text": "Geschwindigkeit"
+					},
+					"content": {
+						"text": "100.000 kbit/s"
+					}
+				},
+				"uploadSpeed": {
+					"amount": "6000",
+					"unit": "kbit/s",
+					"caption": {
+						"text": "Geschwindigkeit"
+					},
+					"content": {
+						"text": "6.000 kbit/s"
+					}
+				},
+				"contractDuration": {
+					"amount": "24",
+					"unit": "month",
+					"caption": {
+						"text": "Laufzeit"
+					},
+					"content": {
+						"text": "24 Monate"
+					}
+				}
+			},
+			"cost": {
+				"effectiveCost": {
+					"amount": "19.16",
+					"unit": "EUR",
+					"caption": {
+						"text": "Effektivpreis"
+					},
+					"content": {
+						"text": "19,16 €"
+					}
+				}
+			},
+			"requiresAvailabilityCheck": "true"
+		}
+	]
+}
